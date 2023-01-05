@@ -1,0 +1,7 @@
+.log{
+    font-size: larger;
+    color: green;
+}
+.log:hover{
+    color: maroon;
+}
